@@ -2,7 +2,7 @@
 - Techstack: .Net 8, SQLServer, codefirst(need migration db)
 - API:
   - Auth:
-    - POST /api/Auth/login: get token for authentication
+    - POST /api/Auth/login: get token for authentication, expire time 1 hour
     - POST /api/Auth: add user
   - Order:
     - POST /api/Order: create order, need authentication
