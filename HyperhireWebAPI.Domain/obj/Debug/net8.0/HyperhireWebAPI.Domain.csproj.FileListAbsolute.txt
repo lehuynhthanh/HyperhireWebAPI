@@ -1,0 +1,14 @@
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\bin\Debug\net8.0\HyperhireWebAPI.Domain.deps.json
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\bin\Debug\net8.0\HyperhireWebAPI.Domain.runtimeconfig.json
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\bin\Debug\net8.0\HyperhireWebAPI.Domain.dll
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\bin\Debug\net8.0\HyperhireWebAPI.Domain.pdb
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.csproj.AssemblyReference.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.AssemblyInfoInputs.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.AssemblyInfo.cs
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.dll
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\refint\HyperhireWebAPI.Domain.dll
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.pdb
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\HyperhireWebAPI.Domain.genruntimeconfig.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Domain\obj\Debug\net8.0\ref\HyperhireWebAPI.Domain.dll

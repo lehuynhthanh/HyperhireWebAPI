@@ -1,0 +1,6 @@
+@HyperhireWebAPI_HostAddress = http://localhost:5056
+
+GET {{HyperhireWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

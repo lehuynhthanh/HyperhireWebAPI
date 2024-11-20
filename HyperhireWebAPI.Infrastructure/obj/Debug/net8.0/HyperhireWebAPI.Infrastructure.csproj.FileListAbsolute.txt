@@ -1,0 +1,17 @@
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.csproj.AssemblyReference.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.AssemblyInfoInputs.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.AssemblyInfo.cs
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\bin\Debug\net8.0\HyperhireWebAPI.Infrastructure.deps.json
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\bin\Debug\net8.0\HyperhireWebAPI.Infrastructure.runtimeconfig.json
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\bin\Debug\net8.0\HyperhireWebAPI.Infrastructure.dll
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\bin\Debug\net8.0\HyperhireWebAPI.Infrastructure.pdb
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\bin\Debug\net8.0\HyperhireWebAPI.Domain.dll
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\bin\Debug\net8.0\HyperhireWebAPI.Domain.pdb
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\Hyperhir.04F98781.Up2Date
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.dll
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\refint\HyperhireWebAPI.Infrastructure.dll
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.pdb
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\HyperhireWebAPI.Infrastructure.genruntimeconfig.cache
+D:\Code\Hyperhire\HyperhireWebAPI\HyperhireWebAPI.Infrastructure\obj\Debug\net8.0\ref\HyperhireWebAPI.Infrastructure.dll
